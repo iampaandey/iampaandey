@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m currently a 3rd Year undergrad in Computer Science with a keen interest in competetive programming and a intermediate Frontend-Web Developer using React. I'm also 
+- :telescope: I’m currently a 3rd Year undergrad in Computer Science with a keen interest in competetive programming and a intermediate Frontend-Web Developer using React.
 
 - :seedling: Currently learning backend development.g.
 
